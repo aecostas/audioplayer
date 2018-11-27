@@ -1,5 +1,5 @@
 streamFile = function(filename) {
-	// TODO: read stream from drive 
+	// TODO: read stream from drive
 }
 
 module.exports = {

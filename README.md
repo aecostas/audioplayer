@@ -52,3 +52,18 @@ out of the scope of the initial prototype, but it would be great to insert all
 the events in a message broker, with persistent capabilities, like Apache Kafka,
 and to have a microservice that reads from it and mantains the values in `Redis`
  updated.
+
+
+# Install and run
+
+Web server
+
+	cd <root>/server
+	npm install
+	npm start
+
+Real time backend (websockets)
+
+	cd <root>/realtime
+	npm install
+	npm start
