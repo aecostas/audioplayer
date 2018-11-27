@@ -1,7 +1,7 @@
 const songs = require('../data/metainfo');
 
 function lookupSong(req, res, next) {
-	req.song = 'mysong';
+	req.songs =  songs.filter(song => song.id === parseInt(req.params.id));;
 	next();
 }
 
