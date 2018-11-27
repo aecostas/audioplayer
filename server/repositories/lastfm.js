@@ -7,6 +7,8 @@ function lookupSong(req, res, next) {
 
 function getSongs(req, res, next) {
 	// TODO: search in last.fm API
+	// TODO: querystring
+
 	res.locals.songs = res.locals.songs.concat([]);
 	next();
 }
