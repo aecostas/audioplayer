@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"name": "Thriller",
+		"artist": "Michael Jackson",
+		"year": "1982"
+	},
+	{
+		"id": 2,
+		"name": "Like a prayer",
+		"artist": "Madonna",
+		"year": "1984"
+	},
+	{
+		"id": 3,
+		"name": "When Doves Cry",
+		"artist": "Prince",
+		"year": "1984"
+	},
+	{
+		"id": 4,
+		"name": "I Wanna Dance With Somebody",
+		"artist": "Whitney Houston",
+		"year": "1984"
+	},
+	{
+		"id": 5,
+		"name": "Baby One More Time",
+		"artist": "Britney Spears",
+		"year": "1998"
+	},
+	{
+		"id": 6,
+		"name": "It’s Gonna Be Me",
+		"artist": "N Sync",
+		"year": "2000"
+	},
+	{
+		"id": 7,
+		"name": "Everybody",
+		"artist": "Backstreet Boys",
+		"year": "1997"
+	},
+	{
+		"id": 8,
+		"name": "Rolling in the Deep",
+		"artist": "Adele",
+		"year": "1997"
+	},
+	{
+		"id": 9,
+		"name": "Billie Jean",
+		"artist": "Michael Jackson",
+		"year": "1997"
+	}
+]
